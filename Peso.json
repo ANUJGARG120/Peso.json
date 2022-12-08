@@ -1,0 +1,86 @@
+{
+"Search": [
+{
+"Id":"p12345",
+"Title": "Kabhi Khushi Kabhie Gham...",
+"Year": "2001",
+"imdbID": "tt0248126",
+"Type": "movie",
+"Poster": "https://m.media-amazon.com/images/M/MV5BOTQ5Nzc3NzAtMzZlMS00ZWJjLWIxMGMtNDU4ZTQ1NmNjMjc5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg"
+},
+{
+"Id":"p12346",
+"Title": "Kabhi Alvida Naa Kehna",
+"Year": "2006",
+"imdbID": "tt0449999",
+"Type": "movie",
+"Poster": "https://m.media-amazon.com/images/M/MV5BNjllNTM0ZWQtMDMyOS00Yzc5LWFlNGYtNTA3MzY0ZjY5YWRiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg"
+},
+{
+"Id":"p12347",
+"Title": "Kabhi Haan Kabhi Naa",
+"Year": "1994",
+"imdbID": "tt0110222",
+"Type": "movie",
+"Poster": "https://m.media-amazon.com/images/M/MV5BYmFjYTRmMzctNWU5YS00MjY2LTg4Y2EtZDZkMWI0YjIzMjVlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg"
+},
+{
+"Id":"p12348",
+"Title": "Kabhi Kabhie",
+"Year": "1976",
+"imdbID": "tt0074730",
+"Type": "movie",
+"Poster": "https://m.media-amazon.com/images/M/MV5BMTkxNzhkNTgtY2E0NS00ZDUzLTliOTMtZDE5MWRhMDkxZTdlXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_SX300.jpg"
+},
+{
+"Id":"p12349",
+"Title": "Kyunki Saas Bhi Kabhi Bahu Thi",
+"Year": "2000–2008",
+"imdbID": "tt0278212",
+"Type": "series",
+"Poster": "https://m.media-amazon.com/images/M/MV5BNDFkNGMzMTktMGIyNS00MDc0LTg3YWItZGI2Y2JkYTQ5YzIxXkEyXkFqcGdeQXVyNzM4MjU3NzY@._V1_SX300.jpg"
+},
+{
+"Id":"p12350",
+"Title": "Always Kabhi Kabhi",
+"Year": "2011",
+"imdbID": "tt1937092",
+"Type": "movie",
+"Poster": "https://m.media-amazon.com/images/M/MV5BOWVkNWM1ZTYtOTU3My00OGIxLWI2MmEtZmYyZGIxMTIwY2MzXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg"
+},
+{
+"Id":"p12351",
+"Title": "Pyaar Mein Kabhi Kabhi...",
+"Year": "1999",
+"imdbID": "tt0275608",
+"Type": "movie",
+"Poster": "https://m.media-amazon.com/images/M/MV5BMWI3YTU1Y2UtOGMxYi00ZDNjLWEwNmUtNTkzNzM4NWQxNWY1XkEyXkFqcGdeQXVyMTA1MjUxNDYy._V1_SX300.jpg"
+},
+{
+"Id":"p12352",
+"Title": "Kabhi Na Kabhi",
+"Year": "1998",
+"imdbID": "tt0116737",
+"Type": "movie",
+"Poster": "https://m.media-amazon.com/images/M/MV5BNWNkZWYwOTAtZmU2OS00Y2ViLTg4YTItMDE0N2FlNTFmZDg2XkEyXkFqcGdeQXVyOTA0NTIzNzU@._V1_SX300.jpg"
+},
+{
+"Id":"p12353",
+"Title": "Kabhi Kabhie Ittefaq Sey",
+"Year": "2022",
+"imdbID": "tt16793274",
+"Type": "series",
+"Poster": "https://m.media-amazon.com/images/M/MV5BNzY2ODI5ODQtOGUxMC00MmNjLWI1ZDktYTkwM2RjNThmNmZkXkEyXkFqcGdeQXVyNzM4MjU3NzY@._V1_SX300.jpg"
+},
+{
+"Id":"p12354",
+"Title": "Kabhi Kabhie",
+"Year": "1978",
+"imdbID": "tt1348981",
+"Type": "movie",
+"Poster": "N/A"
+}
+],
+"totalResults": "58",
+"Response": "True"
+}
